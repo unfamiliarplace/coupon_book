@@ -1,0 +1,3 @@
+-- faceted search
+-- toolbar
+-- help book (http://wxpython.org/Phoenix/docs/html/html.HtmlHelpController.html)
