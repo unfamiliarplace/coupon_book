@@ -1,9 +1,0 @@
-('M:\\Luke\\Random\\compsci\\coupon_book\\setup\\pc\\build\\Coupon Book\\Coupon Book.exe',
- False,
- False,
- 'm:\\luke\\random\\compsci\\coupon_book\\cb.ico',
- None,
- [],
- None,
- True,
- 1439950256L)
